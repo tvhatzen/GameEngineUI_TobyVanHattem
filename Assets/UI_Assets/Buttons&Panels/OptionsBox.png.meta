@@ -95,7 +95,29 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: OptionsBox_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 1110
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 370, y: 324, z: 152, w: 114}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05618f33d9bd6434aab7686139d8961e
+      internalID: -1219904204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -109,7 +131,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OptionsBox_0: -1219904204
+      OptionsBox_1: 1256500751
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
