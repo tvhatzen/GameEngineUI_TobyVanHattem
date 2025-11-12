@@ -180,30 +180,26 @@ MonoBehaviour:
 
     Jordan Cameron
 
-    
 
-    AI was used to create the Button
-    Sounds and Quit Button scripts
+    AI was used to create the Button Sounds
+    and Quit Button scripts
 
-    
 
     Audio:
 
-    "Equatorial Complex",
-    Kevin MacLeod (incompetech.com)
+    "Equatorial Complex", Kevin MacLeod
+    (incompetech.com)
 
-    
 
     Font:
 
-    "Cyber City" by Ari
-    Juanda (Linecreative)
+    "Cyber City" by Ari Juanda (Linecreative)
 
-    
 
     Art:
 
-    Toby Van Hattem'
+    Toby
+    Van Hattem'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
